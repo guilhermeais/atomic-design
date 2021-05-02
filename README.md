@@ -1,4 +1,7 @@
 # atomic-design
+### Projeto feito em Vue usando conceitos de Atomic-Design
+![image](https://user-images.githubusercontent.com/73388069/116812442-26eae500-ab25-11eb-8412-b7c3db8d05b5.png)
+Deploy Vercel: https://atomic-design-mu.vercel.app/
 
 ## Project setup
 ```
